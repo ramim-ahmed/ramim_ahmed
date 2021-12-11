@@ -1,6 +1,6 @@
 ### Hi, there
 ### I'm Ramim Ahmed
-### Front-End Developer
+### Junior Web Developer
 
 Programming is my passion, loved from my heart, Forever Dream in my life.
 
