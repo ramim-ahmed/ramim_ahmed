@@ -5,14 +5,18 @@
 
 Make Clean and Simple code.
 
-## My Working Stack:
+## My Working Stack: Front-End
 - Javascript
 - React
 - React Native
 - Redux
 - firebase
 - Rest Api
- 
+## My Working Stack: Back-End
+- Node
+- Express
+- mysql
+- mongodb
 
 
 
