@@ -1,6 +1,6 @@
 
 # I'm Ramim Ahmed
-#### Front-End Developer
+#### Web And Native App Developer - Javascript Stack
 
 Make Clean and Simple code.
 
