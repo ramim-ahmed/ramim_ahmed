@@ -1,6 +1,6 @@
-
+### Hi, there
 # I'm Ramim Ahmed
-#### Web And Native App Developer - Javascript Stack
+### Web And Native App Developer - Javascript Stack
 
 Make Clean and Simple code.
 
