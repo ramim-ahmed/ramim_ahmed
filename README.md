@@ -1,3 +1,6 @@
+
+![alt text](https://ibb.co/R4sZJ1g)
+
 ### Hi, there
 # I'm Ramim Ahmed
 ### Web And Native App Developer - Javascript Stack
