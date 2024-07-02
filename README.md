@@ -1,24 +1,5 @@
 <img src='/assets/javascript.png'>
-### Hi,
-# I'm Ramim Ahmed
-### Web And Native App Developer - Javascript Stack
 
-Make Clean and Simple code.
-
-## Front-End
-
-- Javascript
-- React
-- nextjs
-- React Native
-- Redux
-- firebase
-- Rest Api
-
-## Back-End
-
-- Node
-- Express
-- postgresql
-- mongodb
-<!-- ![Web and Native frontend developer](https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?t=st=1655798782~exp=1655799382~hmac=b90df821a9d7dfcf9a0959b9ca5658fc2a0191da8738f5fa99d94af2b73b372e&w=740) -->
+<h3> hi i'm Ramim Ahmed </h3>
+<p>A web developer. Based on javascript. I have a strong command over both front-end and back-end technologies, allowing me to build complete and scalable applications. specialize front-end react, redux, and backend node, express and extensive experience database management mongodb with mongoose
+</p>
